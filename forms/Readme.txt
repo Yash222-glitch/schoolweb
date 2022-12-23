@@ -1,2 +1,6 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+Thanks for downloading this template!
+
+Template Name: Mentor
+Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
